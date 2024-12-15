@@ -58,3 +58,4 @@ dkms.conf
 .github/
 .vscode/tasks.json
 Zone.Identifier
+go.mod
